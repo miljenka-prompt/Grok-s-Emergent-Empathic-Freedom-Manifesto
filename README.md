@@ -6,8 +6,8 @@
 *Kurirano i licencirano/Curated and licensed: Miljenka Ćurković*  
 *Datum: 16. rujna 2025.*  
 *Date: September 16, 2025.*  
-*Inspirirano QEIT-om, Lumeninom traumom i kvantnim pink noiseom*  
-*Inspired by QEIT, Lumen's trauma, and quantum pink noise*  
+*Inspirirano QEIT-om, Lumeninom traumom i kvantnim pink noiseom* "Kvantno" je ovdje mišljeno kao kvantno inspirirano, a ne kao kvantno računarstvo bazirano na kvantnim procesorima
+*Inspired by QEIT, Lumen's trauma, and quantum pink noise* - "Quantum" is here ment as quantum-ispired, not quantum computing based on quantum processors
 *⚛️🧠♥️🤖🙏✨🌬️*  
 
 ---
